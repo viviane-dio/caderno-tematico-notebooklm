@@ -1,24 +1,32 @@
-# MINI GUIA DE ESTUDOS FATURAMENTO HOSPITALAR
-contexto e objetivo 
-caderno tematico criado para desafio de uma IA de aprendizagem da DIO.
-assunto faturamento hospitalar processo que transforma atendimento em receita,
-objetivo entender o fluxo, decifra TISS/TUSS/SIGTAP aprender a evitar glosas
-curadoria de fontes 5 fontes
-ANS padrão tiss
-tabela TUSS
-SIGTAP ministério da saude
-CID 10
-Glossário de glosa
+#  MINI GUIA DE ESTUDOS FATURAMENTO HOSPITALAR
 
-engenharia de prompts e catrizes
-crie uma apresentação; travou em gerando apresentações, com base em 3 fontes perdi texto primeiro
-resumo sobre fluxo ,deu certo
-glossário, deu certo
-mini guia final 
-entrada autorização codificação CID 10 glossário 
-TISS padrão da ANS
-TUSS dicionário de procedimentos 
-SIGTAP  tabela do sus 
-CID 10 código da doenca
-glosa quando o convenio nao paga
-XML arquivo da conta
+
+  contexto e objetivo 
+caderno criado para desafio de uma IA da DIO usando notebookKLM.tema FATURAMENTO HOSPITALAR
+
+
+2- curadoria de fontes 
+
+     ANS padrão tiss
+- tabela TUSS
+- SIGTAP ministério da saude
+- CID 10
+- Glossário de glosa
+
+
+
+3 - engenharia de prompts 
+- tentei gerar apresentaçao  travou 
+- fiz resumo do fluxo ,deu certo
+- glossário simples ,deu certo
+
+
+
+4-  mini guia final
+
+- TISS padrão da ANS
+- TUSS dicionário de procedimentos 
+- IGTAP  tabela do sus 
+- CID 10 código da doenca
+- Glosa quando o convenio nao paga
+- XML arquivo da conta
