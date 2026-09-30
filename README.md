@@ -11,9 +11,9 @@ CID 10
 Glossário de glosa
 
 engenharia de prompts e catrizes
-crie uma apresentação travou em gerando apresentações com base em 3 fontes perdi texto primeiro
-resumo sobre fluxo deu certo
-glossário deu certo
+crie uma apresentação; travou em gerando apresentações, com base em 3 fontes perdi texto primeiro
+resumo sobre fluxo ,deu certo
+glossário, deu certo
 mini guia final 
 entrada autorização codificação CID 10 glossário 
 TISS padrão da ANS
