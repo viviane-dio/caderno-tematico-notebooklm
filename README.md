@@ -26,7 +26,7 @@ caderno criado para desafio de uma IA da DIO usando notebookKLM.tema FATURAMENTO
 
 - TISS padrão da ANS
 - TUSS dicionário de procedimentos 
-- IGTAP  tabela do sus 
+- SIGTAP  tabela do sus 
 - CID 10 código da doenca
 - Glosa quando o convenio nao paga
 - XML arquivo da conta
